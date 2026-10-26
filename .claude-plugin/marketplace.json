@@ -1,0 +1,14 @@
+{
+  "name": "lauradcampbell-skills",
+  "owner": {
+    "name": "Laura Campbell",
+    "url": "https://github.com/lauradcampbell"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": "./",
+      "description": "Marketing skills, starting with the Content Review Coach."
+    }
+  ]
+}
