@@ -36,3 +36,7 @@ LinkedIn.
 The Content Review Coach combines two people's reviewing patterns: mine and those of
 [Christopher (Berry) Dunford](https://www.linkedin.com/in/christopher-berry-dunford-ba461688/), a
 senior content strategist. Its buzzword list draws on Emma Stratton's work on plain B2B messaging.
+
+## License
+
+[MIT](LICENSE)
